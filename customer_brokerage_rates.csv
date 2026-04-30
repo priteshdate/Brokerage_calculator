@@ -1,11 +1,11 @@
-Customer_Code,Customer_Name,Intraday_Brokerage_(%),Delivery_Brokerage_(%)
-CUST001,Rajesh Mehta,0.01,0.30
-CUST002,Priya Sharma,0.02,0.50
-CUST003,Anil Kapoor,0.01,0.25
-CUST004,Sunita Patel,0.03,0.50
-CUST005,Vikram Nair,0.02,0.40
-CUST006,Deepa Joshi,0.01,0.30
-CUST007,Suresh Reddy,0.05,0.50
-CUST008,Kavita Singh,0.02,0.35
-CUST009,Manish Gupta,0.01,0.25
-CUST010,Neha Desai,0.03,0.45
+Customer_Code,Customer_Name,Delivery_Brokerage_(%)
+225001,Rajesh Mehta,0.30
+225002,Priya Sharma,0.50
+225003,Anil Kapoor,0.25
+225004,Sunita Patel,0.50
+225005,Vikram Nair,0.40
+225006,Deepa Joshi,0.30
+225007,Suresh Reddy,0.50
+225008,Kavita Singh,0.35
+225009,Manish Gupta,0.25
+225010,Neha Desai,0.03
